@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89cc3eda-bedc-4a09-a36a-634375435bc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnnotationConfigration/src/main/java/com/natwest/dao/Accountdao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationConfigration/src/main/java/com/natwest/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationDemo1/src/test/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationDemo1/src/test/java/com/natwest/Demowebshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationDemo1/src/test/java/com/natwest/OpenURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationDemo1/src/test/java/com/natwest/OpenURLDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationDemo1/src/test/java/com/natwest/opensourceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/controller/OwnerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/dto/OwnerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/entity/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/entity/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/repository/OwnerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/service/OwnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/serviceImpl/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bidirectional-One-To-Many-association/src/main/java/com/example/serviceImpl/OwnerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/repository/DepartmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/service/DepartmaentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/service/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseMaping1toMany/src/main/java/com/natwest/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Databasemaping1-1/src/main/java/com/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Databasemaping1-1/src/main/java/com/example/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Databasemaping1-1/src/main/java/com/example/entity/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Databasemaping1-1/src/main/java/com/example/repository/UserProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Databasemaping1-1/src/main/java/com/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Databasemaping1-1/src/main/java/com/example/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/src/main/java/com/netwest/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjectionusingjavabased/src/main/java/com/netwest/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitJuice Task/FruitJuice Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FruitJuice Task/src/FruitJuice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InteractingWithDemowebshop/src/test/java/com/Natwest/InteractingWithDemowebshop/IntractWitheApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InteractingWithDemowebshop/src/test/java/com/Natwest/InteractingWithDemowebshop/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/controller/LoanApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/entity/LoanApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/exception/LoanApplicationAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/exception/LoanApplicationNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/exceptionhandler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/repository/LoanApplicationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/service/LoanApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/main/java/com/example/LoanApplication/service/LoanApplicationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoanApplication/src/test/java/com/example/LoanApplication/service/LoanApplicationServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenPractice/src/main/java/com/natwest/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenPractice/src/test/java/com/natwest/test/CalculationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/exception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/exception/IdNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/exceptionhandler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/repostiory/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/main/java/com/example/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoExample/src/test/java/com/example/test/UserServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolygonDrawer Task/PolygonDrawer Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolygonDrawer Task/src/PolygonDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepaidCard/src/main/java/com/natwest/TravelCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SprigJDBCDemo/src/main/java/com/natwest/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SprigJDBCDemo/src/main/java/com/natwest/EmployeeCrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SprigJDBCDemo/src/main/java/com/natwest/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjectionUsingXMLConfigration/src/main/java/com/natwest/example/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjectionUsingXMLConfigration/src/main/java/com/natwest/example/Restraunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjectionUsingXMLConfigration/src/main/resources/DB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjectionUsingXMLConfigration/src/main/resources/objects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjectionjavabase/src/main/java/com/natwest/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjectionjavabase/src/main/java/com/natwest/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcDemo/src/main/java/com/natwest/ConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/natwest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/natwest/orangehrmSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabase/src/main/java/com/natwest/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabase/src/main/java/com/natwest/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabase/src/main/java/com/natwest/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabaseTask/src/main/java/com/natwest/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabaseTask/src/main/java/com/natwest/controller/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabaseTask/src/main/java/com/natwest/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springConnectionWithDatabaseTask/src/main/java/com/natwest/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebdemp1/src/main/java/com/natwest/springwebdemp1/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignments/exercise-bt-loops-for-validatephonenumber" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/exercise-bt-loops-for-validatephonenumber" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RBS Uplift SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../RBS Uplift SQL.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dvHoEN0SCDZtHaM9t0tLdk9um2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.orangehrmSelenium.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Welcome/Desktop/Natwest/orangehrmSeleniumAssignment/src/test/java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Welcome\Desktop\Natwest\orangehrmSeleniumAssignment\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="orangehrmSelenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.natwest.orangehrmSelenium" />
+      <module name="orangehrmSeleniumAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.natwest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.orangehrmSelenium" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89cc3eda-bedc-4a09-a36a-634375435bc8" name="Changes" comment="" />
+      <created>1710881810686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710881810686</updated>
+    </task>
+    <servers />
+  </component>
+</project>
